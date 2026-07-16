@@ -17,6 +17,7 @@ once after raise the pull request the reviewer can see the changes and suggest t
 once got the approval from the reviwer we can merge it the main branh.
 
 to see the print log file
+
 git cat-file p <id>
 
 Merge vs rebase
