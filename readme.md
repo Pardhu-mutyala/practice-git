@@ -18,6 +18,3 @@ once got the approval from the reviwer we can merge it the main branh.
 
 to see the print log file
 git cat-file p
-
-I want to understand the git merge conflicts..
-
