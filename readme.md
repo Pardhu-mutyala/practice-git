@@ -145,7 +145,6 @@ deploy to dev
 
 merge to main --> deploy to PROD
 
-checkout f-1 
 git merge main (local laptop)
 
 githb.pardhu72 --> it is in our servers
@@ -185,8 +184,4 @@ git stash pop --> get the changes from temp area to workspace
 git cherry-pick
 ==============
 I am developing feature, but I found some parts of the feature already developed in another branch,
-
-
-
-
 
