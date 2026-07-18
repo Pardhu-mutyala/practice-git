@@ -8,3 +8,7 @@ This is just for basic understand purpose for osme git topics
 git statsh
 git revert
 git cherrypick
+
+git reset: undo the changes befor you commit and 
+git revert: undo the chnages you already commited.
+
