@@ -1,3 +1,10 @@
 Created branch and It will added to the new branch
 I will add this and updated to new one after the full completion
 
+I created new branch another-b and in this I will update the notes for remaining notes.
+
+This is just for basic understand purpose for osme git topics
+
+git statsh
+git revert
+git cherrypick
